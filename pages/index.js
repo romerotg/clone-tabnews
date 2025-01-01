@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Hello World!</h1>
+    return <img src="NH.jpg" alt="NH" />
 }
 
 export default Home;
